@@ -19,7 +19,9 @@ BVM D9/D14 or JVC DT-V monitors).
 Jumper descriptions (looking at component side, BNC outputs to right):
 
 JP2 Input is 75 Ohm terminated (down) or not (up).
+
 JP3 Source signal is passed directly to the output (up) or the sync stripped version (down).
+
 JP4 HSYNC output is HSYNC (right) or CSYNC (including the regenerated HSYNC) (left).
 
 For a complete description, read the technical brief, which is available on Renesas' website
