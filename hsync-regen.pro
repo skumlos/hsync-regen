@@ -1,4 +1,4 @@
-update=2020-08-06T20:33:10 CEST
+update=2020-11-14T20:22:28 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,13 @@ LibName34=isl4089
 LibName35=74hc4046
 LibName36=isl43110
 LibName37=sn74lvc2g74
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
